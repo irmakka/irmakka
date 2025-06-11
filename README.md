@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irmak Kahya</h1>
 <h3 align="center">I am a Computer Engineering Student willing to learn and study.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irmakka" alt="irmakka" /></a> </p>
-
 - 🔭 I’m currently working on **building java swing web projects.**
 
 - 🌱 I’m currently learning **Javascript,Boostrap**
