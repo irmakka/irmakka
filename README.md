@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/irmak-kahya-8b5451253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/irmak-kahya-8b5451253" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rmakkahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rmakkahya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/irmakkahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irmakkahya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/irmak-kahya-8b5451253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irmak-kahya-8b5451253/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rmakkahya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rmakkahya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/irmakkahya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irmakkahya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
