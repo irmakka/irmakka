@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irmak Kahya</h1>
 <h3 align="center">I am a Computer Engineering Student willing to learn and study.</h3>
 <br>
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="500"/>
+   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="coding gif" width="500"/>
 - 🔭 I’m currently working on **building java swing web projects.**
 
 - 🌱 I’m currently learning **Javascript,Boostrap**
