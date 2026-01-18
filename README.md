@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irmak Kahya</h1>
 <h3 align="center">I am a Computer Engineering Student willing to learn and study.</h3>
-<h3 align="center">👩‍💻 A Passionate Woman in Tech</h3>
+<h3 align="center">👩‍💻 A Passionate Java Backend Developer</h3>
 <br>
-   <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh3NHVzMmg5eGlzdmltM3IwMndiaXF4cmNjYWRnd3ZzeWxtMzcwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding gif" width="400"/>
 
-   
-- 🔭 I’m currently working on **building java swing web projects.**
-
-- 🌱 I’m currently learning **Javascript,Boostrap**
+- 🔭 I’m currently working on **building RestfulAPI with Spring Boot.**
 
 - 👨‍💻 Who am I? [https://www.irmakkahya.com.tr](https://www.irmakkahya.com.tr)
 
