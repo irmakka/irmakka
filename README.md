@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **building RestfulAPI with Spring Boot.**
 
-- 👨‍💻 Who am I? [https://www.irmakkahya.com.tr](https://www.irmakkahya.com.tr)
-
-- 📫 How to reach me **irmak2328@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/irmak-kahya-8b5451253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irmak-kahya-8b5451253/" height="30" width="40" /></a>
