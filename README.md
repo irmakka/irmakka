@@ -22,11 +22,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/irmakkahya/)
 </p>
 
-## 🔧 Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=SpringBoot,SpringSecurity,React,Java,Sql&perline=8&theme=dark"/>
-</p>
 
 ## 📡 Stats
 
